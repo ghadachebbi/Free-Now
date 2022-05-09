@@ -1,4 +1,4 @@
-#FREE NOW Frontend Test
+# FREE NOW Frontend Test
 Please finish the tasks specified below and send us the code as a '.zip' file afterwards.
 Keep the following in mind while implementing the given tasks:
 - The task is chosen to be simple enough to be finished within a maximum of four hours.
@@ -7,7 +7,6 @@ Keep the following in mind while implementing the given tasks:
 - Do it as you would do it in a real world project! Keep the app maintainable and extendable.
 - When you've finished your work please delete the "node_modules" folders. We'll run `npm install` when we receive your test.
 - Please send us the result as a .zip-file to career@free-now.com.
-
 
 Good Luck!
 
@@ -43,30 +42,17 @@ To get the SHARE NOW vehicles for example you can call: http://localhost:5000/sh
 
 
 ## Frontend Setup:
-If you'd like you can use one of the following command line interfaces (CLIs) to scaffold your application.
-You can also use any other framework or none at all. Use what you're the most comfortable with.
+If you'd like you can use Create React App or any other CLI to scaffold your React application.
 
-### CLIs:
-#### Create React App
+### Create React App
 * Allows you to quickly set up a React application.
-* Link: https://github.com/facebookincubator/create-react-app
+* Link: https://github.com/facebook/create-react-app
 * How to use:
+
 ```
 npm install -g create-react-app
 
 create-react-app free-now-test-frontend
 cd free-now-test-frontend
 npm start
-```
-
-#### Angular CLI
-* Allows you to quickly set up a modern Angular application.
-* Link: https://github.com/angular/angular-cli
-* How to use:
-```
-npm install -g @angular/cli
-
-ng new free-now-test-frontend
-cd free-now-test-frontend
-ng serve
 ```
