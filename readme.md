@@ -18,5 +18,5 @@ To get the SHARE NOW vehicles for example you can call: http://localhost:5000/sh
 
 
 ## Frontend Setup:
-npm install
-npm start
+- Run `npm install` to install the server dependencies.
+- Run `npm start` to start the server.
